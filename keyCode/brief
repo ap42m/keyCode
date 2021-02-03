@@ -1,0 +1,20 @@
+Create a site that logs a key
+when a key is pressed the browser shows 
+example:
+
+(page)
+press any key to get the JavaScript event keycode
+
+Top of page
+72
+
+left
+event.key: h
+mid
+event.code: KeyH
+bot
+event.which: 72
+
+do for mobile
+desktop
+small screen
